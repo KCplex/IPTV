@@ -1,2 +1,26 @@
+#EXTINF:-1,ABC Bris
+https://abc-iview-mediapackagestreams-akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
+#EXTINF:-1,Seven Toowoomba
+https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+#EXTINF:-1,Seven Two
+https://npc.cdn.7livecloud.io/hls/live/TWB2/masterSD.m3u8
+#EXTINF:-1,7Mate
+https://npc.cdn.7livecloud.io/hls/live/TWB3/masterSD.m3u8
+#EXTINF:-1,7 Flix
+https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
 #EXTINF:-1,9 Bris
 https://9now-live.akamaized.net/hls/live/708955-b/ch9-bne/master.m3u8
+#EXTINF:-1,9 Melbourne
+https://9now-live.akamaized.net/hls/live/708954-b/ch9-mel/master.m3u8
+#EXTINF:-1,9 Gem
+https://9now-live.akamaized.net/hls/live/705340/gem-bne/master.m3u8
+#EXTINF:-1,9Go!
+https://9now-live.akamaized.net/hls/live/708941/go-bne/master.m3u8
+#EXTINF:-1,9Life
+https://9now-live.akamaized.net/hls/live/708948/life-bne/master.m3u8
+#EXTINF:-1,9Rush
+https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
+#EXTINF:-1,10
+https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
+#EXTINF:-1,Peach
+https://d3pjedib5dxuav.cloudfront.net/10PeachQLD/stream.m3u8
